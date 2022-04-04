@@ -16,7 +16,7 @@ Fork this existing repository into a private repository of your own. Without mod
 ```
 
 ### CSS
-Additional though should be given to how the page is styled. Specifics of color and spacing are up to the developer, but work should display and understanding of responsive web design that will display content in a digestible way based on screen width, as well as some simple aesthetic changes to the `<button` as well as spacing on the generated publication list. Displaying understanding of css `grid` and/or `flexbox` is encouraged. 
+Additional thought should be given to how the page is styled. Specifics of color and spacing are up to the developer, but work should display an understanding of responsive web design that will display content in a digestible way based on screen width, as well as some simple aesthetic changes to the `<button>` as well as spacing on the generated publication list. Displaying understanding of css `grid` and/or `flexbox` is encouraged. 
 
 The resulting page would look something like the following
 
