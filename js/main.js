@@ -9,7 +9,7 @@ const getData = function() {
   .then((data) => { buildPubList(data, nextArticle)})
   .catch((error) =>
         console.log(error));
-  if (nextArticle < 48) { // obviously this number would change dynamically in a real-world circumstance, rather than 
+  if (nextArticle < data.length) {
     nextArticle += 1
   } else {
     alert("No more publications to load")
