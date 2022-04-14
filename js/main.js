@@ -9,7 +9,7 @@ const getData = function() {
   .then((data) => { buildPubList(data, nextArticle)})
   .catch((error) =>
         console.log(error));
-  if (nextArticle < data.length) {
+  if (nextArticle < 48) {
     nextArticle += 1
   } else {
     alert("No more publications to load")
